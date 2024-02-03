@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.index{
+  background-color: aqua;
+  border-radius: 8px;
+  margin: 15px;
+}
